@@ -1,6 +1,6 @@
 {
   "name": "next-i18n-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This module provides a convenient way to integrate multilingual support (i18n) into your Next.js application.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -28,6 +28,10 @@
   ],
   "author": "Mark",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markolofsen/next-i18n-config.git"
+  },
   "dependencies": {},
   "peerDependencies": {},
   "devDependencies": {
